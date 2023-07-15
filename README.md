@@ -51,3 +51,22 @@
 
 
 ![snake gif](https://github.com/thisarakaushan/thisarakaushan/blob/output/github-contribution-grid-snake.gif)
+
+
+<h2 align="center">Repositories </h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/thisarakaushan/Order-Amount-Prediction" title="Order Amount Prediction"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Order-Amount-Prediction&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/thisarakaushan/Machine-Learning-Bootcamp" title="Machine Learning"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Machine-Learning-Bootcamp&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+    <a align="right" href="https://github.com/thisarakaushan/Time-Series-Analysis" title="Time Series"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Time-Series-Analysis&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/thisarakaushan/IBM-Hack-Challenge-Data-Science" title="Data Science"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=IBM-Hack-Challenge-Data-Science&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br><br><br><br><br><br>
+
+<h4 align="center">
+  <a href="https://github.com/thisarakaushan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
