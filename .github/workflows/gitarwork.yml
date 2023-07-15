@@ -1,18 +1,20 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '* */24 * * *'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: thisarakaushan/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: thisarakaushan
-            # Text on contribution graph 
-            text: THISARA
-       - uses: thisarakaushan/simple-push-action@v1
+name: gitartwork from a contribution graph
+on:
+  push:
+  schedule:
+    - cron: '* */24 * * *'
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: thisarakaushan/gitartwork@v1
+        with:
+          # Use this username's contribution graph
+          user_name: thisarakaushan
+          # Text on contribution graph
+          text: THISARA
+      - uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
