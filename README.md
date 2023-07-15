@@ -5,11 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Thisara+Kaushan!;&center=true&size=30">
   </a>
 </h1>
-
-<br>
 <h1 align="center">Hi, I'm Thisara</h1>
-<br>
-
 <br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -62,9 +58,10 @@
     <a align="right" href="https://github.com/thisarakaushan/Time-Series-Analysis" title="Time Series"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Time-Series-Analysis&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/thisarakaushan/IBM-Hack-Challenge-Data-Science" title="Data Science"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=IBM-Hack-Challenge-Data-Science&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
-<br><br><br><br><br><br>
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <h4 align="center">
   <a href="https://github.com/thisarakaushan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
