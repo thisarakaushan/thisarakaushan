@@ -33,15 +33,15 @@
 <br>
 <br>
 
-<p align="center"><img text-align="center" src="https://github-readme-stats.vercel.app/api?username=thisarakaushan&show_icons=true&locale=en" alt="thisarakaushan"  /></p>
+<p align="center"><img text-align="center" src="https://github-readme-stats.vercel.app/api?username=thisarakaushan&theme=react&border=61dafb&hide_border=true" alt="thisarakaushan"  /></p>
 
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisarakaushan&" alt="thisarakaushan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisarakaushan&theme=react&border=61dafb&hide_border=true" alt="thisarakaushan" /></p>
 
 <br>
  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisarakaushan&show_icons=true&locale=en&layout=compact" alt="thisarakaushan" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisarakaushan&theme=react&border=61dafb&hide_border=true&layout=compact" alt="thisarakaushan" /></p>
 
 <br>
 <br>
