@@ -46,8 +46,6 @@
 <br>
 <br>
 
-![gitartwork](gitartwork.svg)
-
 
 
 ![snake gif](https://github.com/thisarakaushan/thisarakaushan/blob/output/github-contribution-grid-snake.gif)
