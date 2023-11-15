@@ -19,7 +19,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,git" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,styledcomponents,materialui" /><br>
-     <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,linux,aws,flask,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,linux,aws,flask,mysql,postman" />
 <br>
 <br>
 <br>
