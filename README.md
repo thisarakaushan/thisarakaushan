@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Thisara+Kaushan!;&center=true&size=30">
   </a>
 </h1>
-<h1 align="center">Hi, I'm Thisara</h1>
+<h1 align="center">Hi, I'm Thisara Kaushan</h1>
 <br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
