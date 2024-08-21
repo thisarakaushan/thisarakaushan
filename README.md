@@ -53,16 +53,16 @@
 <br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/thisarakaushan/Order-Amount-Prediction" title="Order Amount Prediction"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Order-Amount-Prediction&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/thisarakaushan/Invoice-Management-Application" title="Invoice Management Application"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Invoice-Management-Application&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/><br>
-<div width="100%" align="center">
-    <a align="right" href="https://github.com/thisarakaushan/AI-Enabled-Face-Recognition-Attendance-System" title="Face Recognition Attendance System"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=AI-Enabled-Face-Recognition-Attendance-System&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/thisarakaushan/Real-Estate-Price-Prediction" title="Real Estate Price Prediction"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Real-Estate-Price-Prediction&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/thisarakaushan/Employee-Management-System" title="Employee Management System"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Employee-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/><br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/thisarakaushan/Invoice-Management-Application" title="Invoice Management Application"><img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Invoice-Management-Application&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/thisarakaushan/Real-Estate-Price-Prediction" title="Real Estate Price Prediction"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Real-Estate-Price-Prediction&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/><br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/thisarakaushan/AI-Enabled-Face-Recognition-Attendance-System" title="Face Recognition Attendance System"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=AI-Enabled-Face-Recognition-Attendance-System&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br>
 <h4 align="center">
