@@ -16,10 +16,25 @@
 <h2 align="center"> Languages and Tools </h2>
 <br>
 <p align="center">
+  <!-- Programming Languages -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,git" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,styledcomponents,materialui" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,linux,aws,flask,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,dart,cs,kotlin"/><br>
+  </a>
+
+  <!-- Frameworks & Libraries -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,flask,spring,materialui,styledcomponents,hibernate"/><br>
+  </a>
+
+  <!-- Tools & Platforms -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,mysql,postman,aws,azure,gcp,firebase,docker,kubernetes,gradle"/><br>
+  </a>
+
+  <!-- Others -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,arduino,pytorch,regex"/><br>
+  </a>
 <br>
 <br>
 <br>
